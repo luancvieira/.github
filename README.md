@@ -14,6 +14,4 @@ import numpy as np
 ```
 asdaijodsa
 
-[link](https://github.com/luancvieira/luancvieira)
-
-checking
+[link](https://github.com/luancvieira/luancvieira)aa
