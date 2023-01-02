@@ -1,17 +1,3 @@
 # Hi there 👋
 
-## My first commit
-
-### Chapter
-
-#### Check
-
-checking
-
-```python
-import pandas as pd
-import numpy as np
-```
-asdaijodsa
-
-[link](https://github.com/luancvieira/luancvieira)aa
+I am not working the final project for my double major graduation on Statistics and Actuarial Science at Federal University of Rio de Janeiro.
