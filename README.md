@@ -4,7 +4,7 @@
 
 I will be sharing my personal projects here.
 
-- [X] [Modelling lap time for the Formula 1 2022 Competition]
+- [X] [Modelling lap time for the Formula 1 2022 Competition](https://github.com/luancvieira/Modelling-Formula-1-Lap-Time)
 
 ## About me
 
