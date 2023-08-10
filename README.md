@@ -12,6 +12,8 @@ I will be sharing my personal projects here.
       
 - [X] [Deep Learning Techniques for Named Entity Recognition applied to Brazilian Legal Documents](https://github.com/luancvieira/Deep-Learning-Techniques-for-Named-Entity-Recognition-applied-to-Brazilian-Legal-Documents)
 
+- [X] [Computational Intelligence](https://github.com/luancvieira/Computational-Intelligence)
+
 <div> 
   <a href="https://www.linkedin.com/in/luancvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
