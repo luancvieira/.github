@@ -14,6 +14,8 @@ I will be sharing my personal projects here.
 
 - [X] [Computational Intelligence](https://github.com/luancvieira/Computational-Intelligence)
 
+- [X] [Classificação de texto com pyspark](https://github.com/luancvieira/Classificacao-de-texto-com-pyspark)
+
 <div> 
   <a href="https://www.linkedin.com/in/luancvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
