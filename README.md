@@ -9,6 +9,8 @@ Double major in Statistics and Actuarial Science (B.Sc.) from Federal University
 I will be sharing my personal projects here.
 
 - [X] [Modelling lap time for the Formula 1 2022 Competition](https://github.com/luancvieira/Modelling-Formula-1-Lap-Time)
+
+- [X] [Heart Attack Prediction - Probabilistic approach using Gaussian Processes](https://github.com/luancvieira/Heart-Attack-Prediction)
       
 - [X] [Deep Learning Techniques for Named Entity Recognition applied to Brazilian Legal Documents](https://github.com/luancvieira/Deep-Learning-Techniques-for-Named-Entity-Recognition-applied-to-Brazilian-Legal-Documents)
 
