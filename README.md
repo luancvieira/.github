@@ -2,7 +2,7 @@
 
 ## About me
 
-Double major in Statistics and Actuarial Science (B.Sc.) from Federal University of Rio de Janeiro. Throughout my university years, I have studied statistical models and data science, and I am always looking to expand my knowledge in these areas. In my activities, I strive to minimize repetitive work by automating tasks and streamlining processes.
+Double major in Statistics and Actuarial Science (B.Sc.) from Federal University of Rio de Janeiro.
 
 ## Projects
 
