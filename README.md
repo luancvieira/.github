@@ -17,7 +17,3 @@ Double major in Statistics and Actuarial Science (B.Sc.) from Federal University
 - [X] [Text classification with pyspark](https://github.com/luancvieira/Classificacao-de-texto-com-pyspark)
 
 - [X] [Information Retrieval](https://github.com/luancvieira/Information-Retrieval-Evaluation)
-
-<div> 
-  <a href="https://www.linkedin.com/in/luancvieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
